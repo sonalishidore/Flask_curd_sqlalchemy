@@ -1,0 +1,1 @@
+# Flask_curd_sqlalchemy
